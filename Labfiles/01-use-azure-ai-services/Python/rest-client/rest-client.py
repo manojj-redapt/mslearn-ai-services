@@ -1,3 +1,5 @@
+# To run the python file in terminal
+    # py <filename>.py
 from dotenv import load_dotenv
 import os
 import http.client, base64, json, urllib
